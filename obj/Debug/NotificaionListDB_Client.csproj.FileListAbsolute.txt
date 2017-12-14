@@ -1,0 +1,11 @@
+c:\users\avate avil\source\repos\NotificaionListDB_Client\bin\Debug\NotificaionListDB_Client.exe.config
+c:\users\avate avil\source\repos\NotificaionListDB_Client\bin\Debug\NotificaionListDB_Client.exe
+c:\users\avate avil\source\repos\NotificaionListDB_Client\bin\Debug\NotificaionListDB_Client.pdb
+c:\users\avate avil\source\repos\NotificaionListDB_Client\bin\Debug\EntityFramework.dll
+c:\users\avate avil\source\repos\NotificaionListDB_Client\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\avate avil\source\repos\NotificaionListDB_Client\bin\Debug\EntityFramework.xml
+c:\users\avate avil\source\repos\NotificaionListDB_Client\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\avate avil\source\repos\NotificaionListDB_Client\obj\Debug\NotificaionListDB_Client.csproj.CoreCompileInputs.cache
+c:\users\avate avil\source\repos\NotificaionListDB_Client\obj\Debug\NotificaionListDB_Client.exe
+c:\users\avate avil\source\repos\NotificaionListDB_Client\obj\Debug\NotificaionListDB_Client.pdb
+c:\users\avate avil\source\repos\NotificaionListDB_Client\obj\Debug\NotificaionListDB_Client.csprojResolveAssemblyReference.cache
